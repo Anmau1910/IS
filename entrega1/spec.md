@@ -14,5 +14,5 @@
     3. Un diagrama de actividad solo para aquellos use case del negocio donde
     el diagrama agrega valor.
 
-:neckbeard:
+:rocket:
 
