@@ -3,7 +3,7 @@
 - Disciplina: Requerimientos.
 - Tareas:
   1. Tabla de eventos del sistema para automatizar use cases del negocio
-  2. Modelo use case:
+  - Modelo use case:
     1. Diagrama use case del sistema.
     2. Especificaciones de los use case del sistema.
 
